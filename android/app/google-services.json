@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "231295294436",
+    "project_id": "fcm-notification-app-da900",
+    "storage_bucket": "fcm-notification-app-da900.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:231295294436:android:095f005edb9cb6822a05f1",
+        "android_client_info": {
+          "package_name": "com.example.fmc_notification_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvh2IBSXJOP5Sln4ZbfNnU2anpZXDRvUI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
